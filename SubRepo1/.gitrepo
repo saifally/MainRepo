@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/saifally/SubRepo1
 	branch = master
-	commit = 8b7cd78dcc558660ebdaf7c8033a21284dddf5ce
-	parent = 17cad66cfb7d7552fea81e2b82dd0a1c72713b45
+	commit = 6ee48462f6b7f7b1199775ca0d0142497af9882a
+	parent = b0f44bad927f535a1b5db4d3ad39aab7029e5a04
 	cmdver = 0.3.0
