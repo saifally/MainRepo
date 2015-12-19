@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/saifally/SubRepo3
+	branch = master
+	commit = 1d28808256965ea5a5fe1ab599d924ff61f1f5aa
+	parent = 2b3aa2ed58f2077fcff3fb79ec22439e0e1cb62d
+	cmdver = 0.3.0
