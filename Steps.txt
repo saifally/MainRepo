@@ -1,0 +1,6 @@
+
+git clone https://github.com/ingydotnet/git-subrepo /Users/saifs/git/git-subrepo
+echo 'source /Users/saifs/git/git-subrepo/.rc' >> ~/.bash_profile
+
+
+git subrepo clone https://github.com/saifally/SubRepo1 SubRepo1 -b master
